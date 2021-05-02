@@ -1,0 +1,3 @@
+include ':ImageReader'
+include ':app'
+rootProject.name = "ImageReaderDemoApp"
